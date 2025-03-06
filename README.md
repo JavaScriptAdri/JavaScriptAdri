@@ -53,7 +53,7 @@ It’s fun, lighthearted, and gives a peek into the developer’s life.**
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JavaScriptAdri&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <br/>
   
 </div>
