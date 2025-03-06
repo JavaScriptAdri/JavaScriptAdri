@@ -54,9 +54,9 @@ It’s fun, lighthearted, and gives a peek into the developer’s life.**
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioDeGitHub&theme=dark" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavaScriptAdri&theme=dark" alt="GitHub Streak">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=dark" alt="My Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavaScriptAdri&show_icons=true&theme=dark" alt="My Stats">
 </div>
 
 <br/><br/>
