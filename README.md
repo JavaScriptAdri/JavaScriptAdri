@@ -45,6 +45,7 @@ It’s fun, lighthearted, and gives a peek into the developer’s life.**
     
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<br/><br/><br/>
   <a href="https://github.com/ABP-2n-DAW-24-25/5-ILOVEJOBS" target="_blank">IloveJobs</a></h2>
 <p align="center">
   <br/><br/><br/>
